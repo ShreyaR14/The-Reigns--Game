@@ -3,10 +3,15 @@
 You are the leader of a nation amidst an environmental crisis due to nuclear fallouts and wars in the year 3075.
 Your goal is to make right decisions and lead your people and nation to prosperity.
 For every decision, you have two options that would overall affect your four categories.
+
 •	Radiation Control
+
 •	People
+
 •	Military force
+
 •	Money
+
 At the start of the game each category has 50 points.
 Your aim is to maintain these points between 0 and 100 to run your country peacefully.
 
