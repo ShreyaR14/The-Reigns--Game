@@ -15,6 +15,7 @@ For every decision, you have two options that would overall affect your four cat
 At the start of the game each category has 50 points.
 Your aim is to maintain these points between 0 and 100 to run your country peacefully.
 
+
 For MIN (i.e. any of the category is zero)
 
 	Nature: You die of radiations.
@@ -24,6 +25,7 @@ For MIN (i.e. any of the category is zero)
  Military: Foreign countries attack and overtake.
 
 	Money: You are overwhelmed by depts of foreign countries.
+
 
 For MAX (i.e. any of the category is 100)
 
@@ -37,5 +39,6 @@ For MAX (i.e. any of the category is 100)
 
 
 END
+
 If you survive all the questions, you will win the game. This would result in bringing everything your country in order. Now everyone is happy and living a prosperous life.
 
